@@ -1,0 +1,23 @@
+0
+2
+3
+4
+Left rotation: 2
+X parent: 1
+Y : 3
+Update node: 2
+Update node: 3
+Update node: 1
+Y parent right child: 2
+        (4 | 0 | 0)
+    (3 | 0 | 0)
+        (2 | 0 | 0)
+(1 | 0 | 0)
+    (0 | 0 | 0)
+
+
+Number of deleted: 0
+Number of lines: 4
+Root left: 0
+Root right: 3
+2 1 0
